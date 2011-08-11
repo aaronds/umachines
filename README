@@ -6,4 +6,4 @@ A message passing library for the Arduino environment inspired by Actors.
 Install
 ==========
 
-Symlink or copy the 'UMachines' directory to your Arduino 'libraries' folder.
+Symlink or copy the 'UMachine' directory to your Arduino 'libraries' folder.
