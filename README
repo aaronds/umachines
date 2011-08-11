@@ -1,7 +1,9 @@
 uMachines
+==========
 
 A message passing library for the Arduino environment inspired by Actors.
 
-== Install ==
+Install
+==========
 
 Symlink or copy the 'UMachines' directory to your Arduino 'librarys' folder.
